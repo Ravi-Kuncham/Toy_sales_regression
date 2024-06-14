@@ -1,0 +1,1 @@
+- Investments and sales data per each toy category will help in imporving the prediction as this will provide more granular information into how sales are driven by investments in each category
