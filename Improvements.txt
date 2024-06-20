@@ -1,1 +1,3 @@
 - Investments and sales data per each toy category will help in imporving the prediction as this will provide more granular information into how sales are driven by investments in each category
+
+- Also, sales data of atleast last 5 years will help to identify any yearly patterns and also provide more quality data for the model to rely on
